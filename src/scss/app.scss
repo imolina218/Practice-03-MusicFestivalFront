@@ -1,0 +1,9 @@
+// Formar previa de vincular archivos
+/* @import "base/variables";
+@import "contenido/contenido"; */
+
+// Nueva forma de vincular archivos scss 
+@use "base";
+@use "layout";
+
+
